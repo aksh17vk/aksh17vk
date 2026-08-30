@@ -1,12 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=230&section=header&text=Aksh%20Tiwari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Builder%20%7C%20Learner&descAlignY=60&descSize=18" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=220&section=header&text=Aksh%20Tiwari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Builder%20%7C%20Learner&descAlignY=60&descSize=18"
+  width="100%"
+  alt="Aksh Tiwari"
+/>
 
 <br>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Frontend+%7C+Backend+%7C+AI+%7C+DevOps;Building+Real-World+Projects;Exploring+AI+Agents+%26+Automation;Turning+Ideas+Into+Products;Code.+Learn.+Build.+Repeat." alt="Typing SVG"/>
-</a>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Frontend+%7C+Backend+%7C+AI+%7C+DevOps;Building+Real-World+Projects;Learn+%7C+Build+%7C+Improve"
+  alt="Typing SVG"
+/>
 
 </div>
 
@@ -14,18 +19,21 @@
 
 # 👨‍💻 About Me
 
-I'm a developer focused on building **modern, interactive and practical web applications**.
+<div align="center">
 
-I started with frontend development and have been expanding towards **full-stack engineering, AI systems and DevOps**.
+### Building real-world software while continuously learning.
+
+</div>
+
+I'm a **Full Stack Web Developer** interested in building modern, scalable and interactive applications.
 
 - 🚀 Building full-stack web applications
-- 🎨 Interested in modern frontend development and interactive UI
-- ⚙️ Working with backend APIs, authentication and databases
+- 🎨 Strong focus on modern frontend development and interactive UI
+- ⚙️ Expanding deeper into backend development and system architecture
 - 🤖 Exploring AI agents, RAG systems and automation
-- ☁️ Learning DevOps, cloud infrastructure and deployment
-- 📚 Strengthening Java and programming fundamentals
+- ☁️ Learning DevOps, Docker, CI/CD and cloud infrastructure
+- 📚 Currently strengthening programming fundamentals with Java
 - 🛠️ Learning by building real-world projects
-- 💡 Interested in turning ideas into useful products
 
 ---
 
@@ -36,21 +44,19 @@ I started with frontend development and have been expanding towards **full-stack
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite,redux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite,redux" alt="Frontend Technologies">
 
 <br><br>
 
 `HTML5` `CSS3` `JavaScript` `TypeScript`
 
-`React` `Next.js` `Redux Toolkit` `Vite`
+`React` `Next.js` `Tailwind CSS` `Bootstrap`
 
-`Tailwind CSS` `Bootstrap`
-
-### Animation & UI
+`Vite` `Redux Toolkit`
 
 `GSAP` `Framer Motion` `Lenis`
 
-`Responsive Design` `Modern UI` `Interactive Interfaces`
+`Responsive Design` `Modern UI` `Web Animations`
 
 </details>
 
@@ -61,17 +67,17 @@ I started with frontend development and have been expanding towards **full-stack
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" alt="Backend Technologies">
 
 <br><br>
 
-`Node.js` `Express.js`
-
-`REST APIs` `MongoDB` `PostgreSQL`
+`Node.js` `Express.js` `REST APIs`
 
 `JWT` `OAuth` `Socket.IO`
 
-`Cloudinary` `API Integration`
+`Cloudinary` `Authentication` `Authorization`
+
+`API Integration` `Backend Architecture`
 
 </details>
 
@@ -82,38 +88,36 @@ I started with frontend development and have been expanding towards **full-stack
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python">
 
 <br><br>
 
-`AI Agents` `Multi-Agent Systems`
+`AI Agents` `Multi-Agent Systems` `RAG`
 
-`RAG Pipelines` `LangChain` `LangGraph`
+`LangChain` `LangGraph` `LLM Integration`
 
-`LLM Integration` `AI Automation`
+`AI Automation` `AI Workflows`
 
-`Ollama`
+`Vector Databases`
 
 </details>
 
 <br>
 
 <details open>
-<summary><b>🗄️ Databases & Infrastructure</b></summary>
+<summary><b>🗄️ Databases & Storage</b></summary>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase,docker" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase" alt="Databases">
 
 <br><br>
 
-`MongoDB` `PostgreSQL`
+`MongoDB` `PostgreSQL` `Redis` `Supabase`
 
-`Redis` `Supabase`
+`Database Design` `Data Modeling`
 
-`MongoDB Atlas` `Cloudinary`
-
-`Docker`
+`Cloudinary` `Database Integration`
 
 </details>
 
@@ -124,19 +128,15 @@ I started with frontend development and have been expanding towards **full-stack
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,nginx,aws,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,nginx,aws,vercel,netlify" alt="DevOps Technologies">
 
 <br><br>
 
-`Git` `GitHub`
+`Git` `GitHub` `Docker` `Kubernetes`
 
-`Docker` `Linux`
+`Linux` `Nginx` `CI/CD`
 
-`CI/CD` `Nginx`
-
-`Kubernetes` `AWS`
-
-`Vercel` `Netlify`
+`AWS` `Vercel` `Netlify`
 
 `Render` `Railway` `Hostinger`
 
@@ -149,17 +149,15 @@ I started with frontend development and have been expanding towards **full-stack
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,git,github" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,git,github" alt="Development Tools">
 
 <br><br>
 
-`VS Code` `IntelliJ IDEA`
+`VS Code` `IntelliJ IDEA` `Postman`
 
-`Postman` `Thunder Client`
+`Thunder Client` `Figma`
 
-`ESLint` `Prettier`
-
-`Figma` `WSL`
+`ESLint` `Prettier` `WSL`
 
 </details>
 
@@ -172,76 +170,77 @@ I started with frontend development and have been expanding towards **full-stack
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-<h3>🌐 VIBEZGRAM</h3>
+<h3 align="center">🌐 VibeZGram</h3>
 
-<p>
-A full-stack social media application focused on modern social interactions and real-time communication.
+<p align="center">
+A modern social media web application with interactive features and real-time communication.
 </p>
 
-<p>
-
-<code>React</code>
-<code>Redux</code>
-<code>Node.js</code>
-<code>Express</code>
-<code>MongoDB</code>
-<code>Socket.IO</code>
-
-</p>
-
+<p align="center">
 <a href="https://github.com/aksh17vk/vibezgram">
-<img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="VIBEZGRAM"/>
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="VibeZGram">
 </a>
+</p>
+
+**Features**
+
+- Social media experience
+- Likes and comments
+- Notifications
+- Real-time chat
+- Interactive UI
+- Responsive design
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-<h3>🤖 SKILLPILOT AI</h3>
+<h3 align="center">🤖 SkillPilot AI</h3>
 
-<p>
-An AI-powered career operating system designed to analyze skills, identify gaps and generate personalized career guidance.
+<p align="center">
+An AI-powered career platform designed to help users understand their skills and career direction.
 </p>
 
-<p>
-
-<code>React</code>
-<code>TypeScript</code>
-<code>Node.js</code>
-<code>Express</code>
-<code>MongoDB</code>
-<code>RAG</code>
-
-</p>
-
+<p align="center">
 <a href="https://github.com/aksh17vk/skillpilot-ai">
-<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="SkillPilot AI"/>
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="SkillPilot AI">
 </a>
+</p>
+
+**Features**
+
+- Resume analysis
+- Job description analysis
+- Skill-gap detection
+- Personalized learning roadmap
+- Assessments
+- AI-powered assistance
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-<h3>🚀 INOVIXX</h3>
+<h3 align="center">🚀 Inovixx</h3>
 
-<p>
-A product-focused technology initiative exploring AI-powered products, automation and software systems.
+<p align="center">
+A technology initiative focused on building AI-powered products, automation systems and software solutions.
 </p>
 
-<p>
-
-<code>AI</code>
-<code>Automation</code>
-<code>Agents</code>
-<code>Software</code>
-
-</p>
-
+<p align="center">
 <a href="https://github.com/aksh17vk/inovixx">
-<img src="https://img.shields.io/badge/View_Project-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Inovixx"/>
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Inovixx">
 </a>
+</p>
+
+**Focus**
+
+- AI-powered products
+- AI automation
+- Agentic systems
+- Software products
+- Product development
 
 </td>
 
@@ -252,61 +251,106 @@ A product-focused technology initiative exploring AI-powered products, automatio
 
 ---
 
-# 🧠 What I'm Exploring
-
-<div align="center">
+# 🎯 Currently Focused On
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### 🌐 Full Stack
+## 🌐 Full Stack Development
 
-Building scalable applications with modern frontend, backend APIs, authentication and databases.
+Going deeper into backend development and building complete applications.
+
+**Working With**
+
+- REST APIs
+- Authentication
+- Authorization
+- Databases
+- Real-time systems
+- Backend architecture
 
 </td>
 
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### 🤖 AI
+## 🤖 AI Systems
 
-Exploring AI agents, RAG pipelines, LLM applications, multi-agent systems and automation.
+Exploring practical applications of AI in software products.
+
+**Exploring**
+
+- AI Agents
+- RAG
+- Multi-Agent Systems
+- LLM Applications
+- LangChain
+- LangGraph
+- Automation
 
 </td>
 
-<td width="33%" align="center">
+</tr>
 
-### ☁️ DevOps
+<tr>
 
-Learning Docker, Linux, CI/CD, cloud deployment, Nginx and Kubernetes.
+<td width="50%" valign="top">
+
+## ☁️ DevOps
+
+Learning how applications are developed, deployed and maintained in production.
+
+**Learning**
+
+- Linux
+- Docker
+- CI/CD
+- Kubernetes
+- AWS
+- Cloud Deployment
+- Nginx
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📚 Java
+
+Strengthening programming fundamentals and problem-solving.
+
+**Learning**
+
+- Java
+- OOP
+- Data Structures
+- Algorithms
+- Problem Solving
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 ---
 
-# 🛠️ Development Focus
+# 📚 Learning Roadmap
 
-### Frontend
+<div align="center">
 
-Building responsive and interactive interfaces with a focus on **performance, user experience and modern design**.
+| Area | Technologies / Concepts |
+|:---:|:---|
+| ☕ Programming | Java • OOP • DSA |
+| 🎨 Frontend | React • Next.js • TypeScript |
+| ⚙️ Backend | Node.js • Express.js • REST APIs |
+| 🗄️ Databases | MongoDB • PostgreSQL • Redis |
+| 🤖 AI | RAG • AI Agents • LangChain • LangGraph |
+| 🐳 DevOps | Docker • Linux • CI/CD |
+| ☁️ Cloud | AWS • Deployment • Infrastructure |
+| ☸️ Orchestration | Kubernetes |
+| 🧠 Architecture | APIs • System Design • Scalable Applications |
 
-### Backend
-
-Learning to design reliable APIs, authentication systems, database architectures and real-time features.
-
-### AI
-
-Experimenting with **AI agents, RAG architectures, LLM integrations and intelligent automation**.
-
-### DevOps
-
-Understanding how applications move from **development to production** using containers, CI/CD and cloud infrastructure.
+</div>
 
 ---
 
@@ -314,29 +358,17 @@ Understanding how applications move from **development to production** using con
 
 <div align="center">
 
-<a href="https://github.com/aksh17vk">
-<img src="https://github-readme-stats.vercel.app/api?username=aksh17vk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180" alt="GitHub Stats"/>
-</a>
+<img
+  src="./profile/stats.svg"
+  height="180"
+  alt="GitHub Stats"
+/>
 
-<a href="https://github.com/aksh17vk">
-<img src="https://streak-stats.demolab.com/?user=aksh17vk&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/aksh17vk">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksh17vk&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" height="180" alt="Top Languages"/>
-</a>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aksh17vk&theme=tokyo-night&hide_border=true&area=true&custom_title=Aksh%27s%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+<img
+  src="./profile/top-langs.svg"
+  height="180"
+  alt="Top Languages"
+/>
 
 </div>
 
@@ -349,19 +381,19 @@ Understanding how applications move from **development to production** using con
 <picture>
 
 <source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/aksh17vk/aksh17vk/output/github-contribution-grid-snake-dark.svg"
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/aksh17vk/aksh17vk/output/github-contribution-grid-snake-dark.svg"
 />
 
 <source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/aksh17vk/aksh17vk/output/github-contribution-grid-snake.svg"
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/aksh17vk/aksh17vk/output/github-contribution-grid-snake.svg"
 />
 
 <img
-src="https://raw.githubusercontent.com/aksh17vk/aksh17vk/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-width="95%"
+  src="https://raw.githubusercontent.com/aksh17vk/aksh17vk/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+  width="95%"
 />
 
 </picture>
@@ -370,76 +402,88 @@ width="95%"
 
 ---
 
-# 📚 Currently Learning
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<table>
-
-<tr>
-<th>Area</th>
-<th>Technologies / Concepts</th>
-</tr>
-
-<tr>
-<td><b>Frontend</b></td>
-<td>React • Next.js • TypeScript • Advanced UI • Web Animations</td>
-</tr>
-
-<tr>
-<td><b>Backend</b></td>
-<td>Node.js • Express • REST APIs • Authentication • Real-time Systems</td>
-</tr>
-
-<tr>
-<td><b>Database</b></td>
-<td>PostgreSQL • MongoDB • Redis • Database Design</td>
-</tr>
-
-<tr>
-<td><b>AI</b></td>
-<td>AI Agents • RAG • LangChain • LangGraph • LLM Applications</td>
-</tr>
-
-<tr>
-<td><b>DevOps</b></td>
-<td>Docker • Linux • CI/CD • Kubernetes • Cloud</td>
-</tr>
-
-<tr>
-<td><b>Programming</b></td>
-<td>Java • DSA • Software Engineering</td>
-</tr>
-
-</table>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=aksh17vk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
+  width="95%"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
 ---
 
-# 🎯 Goals
-
-- 🚀 Become a stronger **Full Stack Developer**
-- 🤖 Build practical **AI-powered products**
-- 🧠 Strengthen **DSA and programming fundamentals**
-- 🐳 Become comfortable with **Docker and DevOps**
-- ☁️ Understand **production cloud infrastructure**
-- 🔐 Build applications with better **security and scalability**
-- 📦 Ship more real-world projects
-- 💡 Turn useful ideas into actual products
-
----
-
-# 🔥 Build. Break. Learn. Improve.
+# 🔥 My Build Philosophy
 
 <div align="center">
 
-> **I don't just want to learn technologies.  
-> I want to use them to build things that actually work.**
+```text
+┌─────────────┐
+│    LEARN    │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│    BUILD    │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│    TEST     │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│    BREAK    │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│     FIX     │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│   IMPROVE   │
+└──────┬──────┘
+       │
+       └──────────────→ 🔁
+```
+
+</div>
+
+> Build first.  
+> Find problems.  
+> Understand them.  
+> Fix them.  
+> Improve the system.
+
+---
+
+# 🎯 Goals
+
+- Build production-ready full-stack applications
+- Become stronger in backend engineering
+- Learn system design and scalable architecture
+- Build practical AI-powered products
+- Understand DevOps and cloud infrastructure
+- Contribute to meaningful open-source projects
+- Turn ideas into working software
+- Continuously improve through real-world projects
+
+---
+
+# ⚡ Developer Mindset
+
+<div align="center">
+
+### `Think → Build → Break → Learn → Improve`
 
 <br>
 
-### `Code. Learn. Build. Ship. Repeat.`
+I believe the fastest way to grow as a developer is to build things that force you to solve problems you haven't solved before.
+
+<br>
+
+### Building today. Learning every day.
 
 </div>
 
@@ -449,36 +493,50 @@ width="95%"
 
 <div align="center">
 
-Interested in **web development, AI, interesting projects or collaboration?**
+I'm open to **interesting projects, collaborations, technical discussions and learning opportunities.**
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/aksh-tiwari-423252380/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://github.com/aksh17vk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<a href="https://www.instagram.com/akshtiwari_017">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://www.linkedin.com/in/aksh-tiwari-423252380/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/akshtiwari_017/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 <a href="https://x.com/akshtiwari_017">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
 </a>
 
 <a href="mailto:taksh9655@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=aksh17vk&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile Views"/>
+### 🌐 Portfolio
+
+**Coming Soon**
+
+<br><br>
+
+### `Code. Build. Learn. Repeat.`
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=120&section=footer&animation=fadeIn"
+  width="100%"
+  alt="Footer"
+/>
 
 </div>
